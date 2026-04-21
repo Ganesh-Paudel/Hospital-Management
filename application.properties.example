@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/dbName
+
+spring.datasource.username=databaseUsername
+spring.datasource.password=databasePassword
